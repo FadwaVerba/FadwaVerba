@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FadwaVerba
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Theoretical Neuroscience 
+- 👀 I’m a Data Scienctist 
 
 <!---
 FadwaVerba/FadwaVerba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
